@@ -1,0 +1,16 @@
+{
+    "name": "vendor/creacion_barcode",
+    "require": {
+        "picqer/php-barcode-generator": "^2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\CreacionBarcode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Larry"
+        }
+    ]
+}
